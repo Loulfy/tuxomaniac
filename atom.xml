@@ -1,108 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Tuxomaniac</title>
-  <meta name="author" content="Loulfy">
-
-  
-  <meta name="description" content="Salutation à tous ! Je vous souhaite la bienvenue dans cette section du blog qui sera consacré à une activité du web qui m&#8217;a toujours plu : le &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://loulfy.github.io/tuxomaniac">
-  <link href="/tuxomaniac/favicon.png" rel="icon">
-  <link href="/tuxomaniac/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Tuxomaniac" type="application/atom+xml">
-  <script src="/tuxomaniac/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/tuxomaniac/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-<link rel="icon" type="image/png" href="favicon.png">
-<link href="http://www.periphane.net/tuxomaniac/stylesheets/rating-stars.css" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/tuxomaniac/">Tuxomaniac</a></h1>
-  
-    <h2>GNUformatique, Électrolinux & CO !</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:loulfy.github.io/tuxomaniac" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/tuxomaniac/">Home</a></li>
-  <li><a href="/tuxomaniac/projects">Projects</a></li>
-  <li><a href="/tuxomaniac/tutorials">Tutorials</a></li>
-  <li><a href="/tuxomaniac/blog/archives">Archives</a></li>
-  <li><a href="/tuxomaniac/about">About</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Tuxomaniac]]></title>
+  <link href="http://loulfy.github.io/tuxomaniac/atom.xml" rel="self"/>
+  <link href="http://loulfy.github.io/tuxomaniac/"/>
+  <updated>2013-09-13T19:05:18+02:00</updated>
+  <id>http://loulfy.github.io/tuxomaniac/</id>
+  <author>
+    <name><![CDATA[Loulfy]]></name>
     
-      <h1 class="entry-title"><a href="/tuxomaniac/blog/2013/06/03/astuces-pour-devenir-un-streameur-aguerris/">Astuces Pour Devenir Un Streameur Aguerris</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-06-03T19:09:00+02:00" pubdate data-updated="true">Jun 3<span>rd</span>, 2013</time>
-        
-         | <a href="/tuxomaniac/blog/2013/06/03/astuces-pour-devenir-un-streameur-aguerris/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Salutation à tous !</p>
+  <entry>
+    <title type="html"><![CDATA[Astuces pour devenir un streameur aguerris]]></title>
+    <link href="http://loulfy.github.io/tuxomaniac/blog/2013/06/03/astuces-pour-devenir-un-streameur-aguerris/"/>
+    <updated>2013-06-03T19:09:00+02:00</updated>
+    <id>http://loulfy.github.io/tuxomaniac/blog/2013/06/03/astuces-pour-devenir-un-streameur-aguerris</id>
+    <content type="html"><![CDATA[<p>Salutation à tous !</p>
 
 <p>Je vous souhaite la bienvenue dans cette section du blog qui sera consacré à une activité du web qui m&#8217;a toujours plu : le Streaming. D’abord faisons un petit point d’étymologie sur ce mot.( je me fous complètement que ce point définition soit inutile : c&#8217;est mon post et je fais ce que je veux ! ) Donc bref, le mot streaming d’origine anglaise se rapporte bien entendu au mot stream ( le courant ). Le streaming désigne donc le fait de visionner une vidéo en courant continu sur le web sans pour autant la télécharger. C&#8217;est donc pourquoi le streaming n&#8217;ai PAS illégal. En effet prenez l&#8217;exemple de Youtube; il s&#8217;agit bien d&#8217;un site de streaming où sont postés des contenu légal, à part dans le cas d&#8217;un nom respect des droits d&#8217;auteur. Mais dans tous les cas, regardez une vidéo qui viole des droits d&#8217;auteurs n&#8217;est sûrement pas un délit. Effectivement  la seule personne que l&#8217;on pourrait blâmer, euh bien c&#8217;est l&#8217;uploadeur. Vous pouvez tous regarder personne ne pourra vous accuser à partir du moment que ce n&#8217;est pas vous qui postait ces vidéos ! Mouhahaha ! En fait le streaming est donc une technique de lâche refusant de télécharger sans doute par peur de se faire chopper par le grand manitou Adopi. ( ou pas ) Le Streaming c&#8217;est aussi un piège à pigeon du web rempli de fake-site et téléchargement de logiciel bidon ou contenant des virus du style spybot ou autre. ( c&#8217;est aussi une mine à spam publicitaire ! )</p>
 
@@ -129,31 +45,31 @@
 
 <p>Car il y a bien une chose qui est vraiment mais vraiment agaçante lorsque l’on veut streamer en paix : ce sont les pubs. C’est donc pourquoi je vais vous parler de l’extension <strong>AdBlock</strong> qui fort justement bloque ces pubs intempéstives.</p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/adblock.png" title="adblock" ></p>
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/adblock.png" title="adblock" ></p>
 
 <p>Je vais donc être concis, selon moi <strong>AdBlock</strong> est totalement indispensable pour tout streameur qui se respecte. Voici donc comment télécharger et installer cette extensions sur différents navigateurs.</p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/chrome.gif" width="50" height="50" title="chrome" > POUR CHROME :
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/chrome.gif" width="50" height="50" title="chrome" > POUR CHROME :
 Rendez vous à cette adresse : <a href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom">ICI</a> puis il vous suffit de cliquez sur installer l’extension et de vous laissez guider. (simple comme bonjour :D)</p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/mozilla.gif" width="50" height="50" title="mozilla" > POUR MOZILLA :
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/mozilla.gif" width="50" height="50" title="mozilla" > POUR MOZILLA :
 Voila le lien d’installation pour mozilla firefox : <a href="https://addons.mozilla.org/fr/firefox/addon/adblock-plus/">ICI</a></p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/safari.png" width="50" height="50" title="safari" > POUR SAFARI :
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/safari.png" width="50" height="50" title="safari" > POUR SAFARI :
 Le navigateur bloque automatiquement les pubs. <em>/=v(X 49913 5# !7 i</em></p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/opera.png" width="50" height="50" title="opera" > POUR OPERA :
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/opera.png" width="50" height="50" title="opera" > POUR OPERA :
 Même si je n’ai franchement aucun respect pour se navigateur voici tout de même le lien pour ajouter l’addon adblock : <a href="https://addons.opera.com/frextensions/details/opera-adblock/?display=en">ICI</a></p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/explorer.gif" width="50" height="50" title="explorer" > POUR INTERNET EXPLORER : Fuck Explorer ! ( changez de navigateur )</p>
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/explorer.gif" width="50" height="50" title="explorer" > POUR INTERNET EXPLORER : Fuck Explorer ! ( changez de navigateur )</p>
 
 <p>Cependant attention les publicités quand elles ne sont pas trop nombreuse permettent à beaucoup de sites à contenu gratuit de vivre. Certain même vous empeche d’accéder au contenu si vous ne désactiver pas votre bloqueur de publicité. Voici comment désactiver <strong>AdBlock</strong> :</p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/chrome.gif" width="50" height="50" title="chrome" > POUR CHROME : Cliquez sur le panneau adblock à coté de la barre d&#8217;adresse > Désactivez pour cette page.</p>
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/chrome.gif" width="50" height="50" title="chrome" > POUR CHROME : Cliquez sur le panneau adblock à coté de la barre d&#8217;adresse > Désactivez pour cette page.</p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/mozilla.gif" width="50" height="50" title="mozilla" > POUR MOZILLA : Menu Outils > Adblock plus > désactiver pour &ldquo;nom page&rdquo;</p>
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/mozilla.gif" width="50" height="50" title="mozilla" > POUR MOZILLA : Menu Outils > Adblock plus > désactiver pour &ldquo;nom page&rdquo;</p>
 
-<p><img src="/tuxomaniac/tutorials/streaming/opera.png" width="50" height="50" title="opera" > POUR OPERA : Putain je sais pas tout moi. Google est votre ami !</p>
+<p><img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/opera.png" width="50" height="50" title="opera" > POUR OPERA : Putain je sais pas tout moi. Google est votre ami !</p>
 
 <p>Sur ce ici se cloture cette partie. <em>533 ‘/0v 500^/</em></p>
 
@@ -181,14 +97,14 @@ Même si je n’ai franchement aucun respect pour se navigateur voici tout de m�
 <ul>
 <li>Les sites payants ou qui demande l’inscripition d’un numéro de carte bancaire sont bien souvent des arnaques ( et puis pourquoi payer quand on peut faire du streaming gratuitement )</li>
 <li>Les sites demandant le téléchargement d’extensions bidons ou/et souvent pleines de spybots ou virus.  Par exemple je pourrais vous citer un de ces plugins-fake : WebPlayer (si vous tombez sur un site vous demandant l’installation de ce plugin, cherchez ailleurs c’est un conseil )Pour plus d’info sur ces extensions à chier (vlc player, webplayer, <a href="http://forum.malekal.com/vlc-plugin-offerbox-hotbar-shopperreports-clickpotato-t29633.html">source</a> ).</li>
-<img src="/tuxomaniac/tutorials/streaming/webplayer.png" width="500" height="390" title="webplayer" >
+<img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/webplayer.png" width="500" height="390" title="webplayer" >
 <li>Le logiciel Cacaoweb que je ne pourrais oublier de citer.  Pour synthétiser, ce logiciel est une mine à trojan et botnet. Le logiciel qui en lui-même n’est pas un virus utilise votre connexion à des fins souvent de hack ou de piratage de sites webs. Pour plus d’info vous pouvez consulter cet article ou chercher sur Google encore une fois ( <a href="http://blog.alldebrid.com/">source</a> ) !
-<img src="/tuxomaniac/tutorials/streaming/cacaoweb.jpg" width="500" height="390" title="cacaoweb" >
+<img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/cacaoweb.jpg" width="500" height="390" title="cacaoweb" >
 </ul>
 
 
 <p>Donc en bref : ne télécharger pas de plugins ou de logiciel sans avoir d’abord vérifié leur fiabilté. Ne soyez pas pigeon ! Pour avoir une bonne connaissance de la fiabilité de certains sites, vous pouvez télécharger l’addon d’Avast qui permet d’avoir une evaluation de certains sites et d’ainsi voir globalement la fiabilité de certains sites. Encore une fois à vous de vous renseigner.
-<img src="/tuxomaniac/tutorials/streaming/avast_addon_1.jpg" width="500" height="390" title="avast_addon_1" ></p>
+<img src="http://loulfy.github.io/tuxomaniac/tutorials/streaming/avast_addon_1.jpg" width="500" height="390" title="avast_addon_1" ></p>
 
 <p>Réalisé par Elkisab aka <a href="http://www.youtube.com/Basikle">Basikle</a> !</p>
 
@@ -198,44 +114,17 @@ Même si je n’ai franchement aucun respect pour se navigateur voici tout de m�
 
 
 <p></div></p>
-</div>
+]]></content>
+  </entry>
   
-  
+  <entry>
+    <title type="html"><![CDATA[Super post test]]></title>
+    <link href="http://loulfy.github.io/tuxomaniac/blog/2013/05/24/super-post-test/"/>
+    <updated>2013-05-24T19:34:00+02:00</updated>
+    <id>http://loulfy.github.io/tuxomaniac/blog/2013/05/24/super-post-test</id>
+    <content type="html"><![CDATA[<p>Yosh ! C&#8217;est trop beau ! Cela fonctionne !</p>
 
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/tuxomaniac/blog/2013/05/24/super-post-test/">Super Post Test</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-05-24T19:34:00+02:00" pubdate data-updated="true">May 24<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Yosh ! C&#8217;est trop beau ! Cela fonctionne !</p>
-
-<figure class='code'><figcaption><span> (main.lua)</span> <a href='/tuxomaniac/downloads/code/main.lua'>download</a></figcaption>
+<figure class='code'><figcaption><span> (main.lua)</span> <a href='http://loulfy.github.io/tuxomaniac/downloads/code/main.lua'>download</a></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
@@ -428,104 +317,7 @@ Même si je n’ai franchement aucun respect pour se navigateur voici tout de m�
 <p>Un autre !</p>
 
 <p> TEST !</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/tuxomaniac/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/tuxomaniac/blog/2013/06/03/astuces-pour-devenir-un-streameur-aguerris/">Astuces Pour Devenir Un Streameur Aguerris</a>
-      </li>
-    
-      <li class="post">
-        <a href="/tuxomaniac/blog/2013/05/24/super-post-test/">Super Post Test</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/Loulfy">@Loulfy</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'Loulfy',
-            count: 0,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/tuxomaniac/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Loulfy -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'tuxomaniac';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
