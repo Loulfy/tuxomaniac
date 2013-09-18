@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Test | Tuxomaniac]]></title>
   <link href="http://loulfy.github.io/tuxomaniac/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://loulfy.github.io/tuxomaniac/"/>
-  <updated>2013-09-18T17:39:26+02:00</updated>
+  <updated>2013-09-18T23:00:50+02:00</updated>
   <id>http://loulfy.github.io/tuxomaniac/</id>
   <author>
     <name><![CDATA[Loulfy]]></name>
@@ -211,6 +211,8 @@
 <p>Un autre !</p>
 
 <p> TEST !</p>
+
+<p><button type="button">Click Me!</button></p>
 ]]></content>
   </entry>
   

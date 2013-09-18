@@ -4,7 +4,7 @@
   <title><![CDATA[Tuxomaniac]]></title>
   <link href="http://loulfy.github.io/tuxomaniac/atom.xml" rel="self"/>
   <link href="http://loulfy.github.io/tuxomaniac/"/>
-  <updated>2013-09-18T17:39:26+02:00</updated>
+  <updated>2013-09-18T23:00:50+02:00</updated>
   <id>http://loulfy.github.io/tuxomaniac/</id>
   <author>
     <name><![CDATA[Loulfy]]></name>
@@ -317,6 +317,8 @@ Même si je n’ai franchement aucun respect pour se navigateur voici tout de m�
 <p>Un autre !</p>
 
 <p> TEST !</p>
+
+<p><button type="button">Click Me!</button></p>
 ]]></content>
   </entry>
   
