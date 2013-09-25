@@ -4,7 +4,7 @@
   <title><![CDATA[Tuxomaniac]]></title>
   <link href="http://loulfy.github.io/tuxomaniac/atom.xml" rel="self"/>
   <link href="http://loulfy.github.io/tuxomaniac/"/>
-  <updated>2013-09-25T20:15:20+02:00</updated>
+  <updated>2013-09-25T20:18:07+02:00</updated>
   <id>http://loulfy.github.io/tuxomaniac/</id>
   <author>
     <name><![CDATA[Loulfy]]></name>
@@ -126,11 +126,7 @@ Même si je n’ai franchement aucun respect pour se navigateur voici tout de m�
 
 <figure class='code'><figcaption><span> (main.lua)</span> <a href='http://loulfy.github.io/tuxomaniac/downloads/code/main.lua'>download</a></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='lua'><span class='line'><span class="n">merde</span>
-</span><span class='line'><span class="n">test</span>
-</span><span class='line'><span class="n">haaa</span>
+</pre></td><td class='code'><pre><code class='lua'><span class='line'><span class="nb">print</span><span class="p">(</span><span class="s1">&#39;</span><span class="s">yellow summari&#39;</span><span class="p">)</span>
 </span></code></pre></td></tr></table></div></figure>
 
 

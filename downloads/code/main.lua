@@ -1,3 +1,1 @@
-merde
-test
-haaa
+print('yellow summari')
